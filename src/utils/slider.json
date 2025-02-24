@@ -1,38 +1,27 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Personenfahrten",
+    "detail": "Eine angenehme Fahrt beginnt mit einem zuverlässigen Fahrer und einem sicheren Fahrzeug. Pünktlichkeit und Komfort sind die wichtigsten Merkmale einer erfolgreichen Personenbeförderung.",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Kurierfahrten",
+    "detail": "Zustellung wichtiger Dokumente und mehr Neben gerichtsfesten Zustellungen wichtiger Dokumente, bieten wir Ihnen selbstverständlich auch Kurierdienstleistungen jeglicher Art an.",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Flughafenfahrten",
+    "detail": "Zuverlässig und sorgenfrei in den Urlaub starten oder die Geschäftsreise antreten. Als Spezialisten für den Flughafentransfer, bringen wir Sie pünktlich und entspannt zum Flughafen.",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Krankenfahrten",
+    "detail": "Wir bringen Sie sicher und pünktlich zu Ihrer Behandlung und zurück Ob Transport zur Dialyse, Therapie, Krankengymnastik oder zum Arzt, wir begleiten Sie von Ihrer Haustüre bis zur Klinik oder Praxis und zurück.",
+    "image": "./r4.png.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Kinderfahrten",
+    "detail": "Die Sicherheit der Kinder steht bei jeder Fahrt an erster Stelle. Wir sorgen dafür, dass Ihre Kinder sicher und pünktlich an ihrem Ziel ankommen.",
+    "image": "./r5.png"
   }
 ]
