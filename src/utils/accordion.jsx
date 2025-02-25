@@ -1,23 +1,24 @@
-import { HiShieldCheck } from "react-icons/hi";
-import { MdCancel, MdAnalytics } from "react-icons/md";
+import { FaClock, FaCreditCard, FaCalendarCheck } from "react-icons/fa";
+
 const data = [
   {
-    icon: <HiShieldCheck/>,
-    heading: "Sichere und zuverlässige Fahrten",
+    icon: <FaClock />,
+    heading: "24h Service",
     detail:
-      "Unsere professionellen Fahrer sorgen für eine sichere und komfortable Fahrt. Mit modernen Fahrzeugen und höchsten Sicherheitsstandards garantieren wir Ihnen eine angenehme Reise.",
+      "Unsere topgepflegten Fahrzeuge und unser freundliches Personal stehen Ihnen rund um die Uhr für eine sichere und komfortable Fahrt zur Verfügung.",
   },
   {
-    icon: <MdCancel />,
-    heading: "Faire Preise für Ihre sichere Fahrt",
+    icon: <FaCreditCard />,
+    heading: "Flexible Zahlungsmethoden",
     detail:
-      "Unsere Fahrten sind nicht nur sicher und komfortabel, sondern auch zu fairen Preisen verfügbar. Genießen Sie höchste Sicherheit ohne überhöhte Kosten!",
+      "Bezahlen Sie bequem mit Bargeld, EC- oder Kreditkarte – unsere Fahrer akzeptieren alle gängigen Zahlungsmethoden für Ihre Flexibilität.",
   },
   {
-    icon: <MdAnalytics />,
-    heading: "Pünktlich und bequem ans Ziel!",
+    icon: <FaCalendarCheck />,
+    heading: "Einfache Vorbestellungen",
     detail:
-      "Egal ob Geschäftsreise, Flughafentransfer oder Stadtfahrt – wir bringen Sie stressfrei und termingerecht ans Ziel. Verlassen Sie sich auf unseren zuverlässigen Service!",
+      "Planen Sie Ihre Fahrt im Voraus! Wir nehmen Ihre Vorbestellungen jederzeit entgegen und garantieren eine pünktliche Abholung.",
   },
 ];
+
 export default data;

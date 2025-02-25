@@ -2,26 +2,26 @@
   {
     "name": "Personenfahrten",
     "detail": "Eine angenehme Fahrt beginnt mit einem zuverlässigen Fahrer und einem sicheren Fahrzeug. Pünktlichkeit und Komfort sind die wichtigsten Merkmale einer erfolgreichen Personenbeförderung.",
-    "image": "./r1.png"
+    "image": "/r1.png"
   },
   {
     "name": "Kurierfahrten",
     "detail": "Zustellung wichtiger Dokumente und mehr Neben gerichtsfesten Zustellungen wichtiger Dokumente, bieten wir Ihnen selbstverständlich auch Kurierdienstleistungen jeglicher Art an.",
-    "image": "./r2.png"
+    "image": "/r2.png"
   },
   {
     "name": "Flughafenfahrten",
     "detail": "Zuverlässig und sorgenfrei in den Urlaub starten oder die Geschäftsreise antreten. Als Spezialisten für den Flughafentransfer, bringen wir Sie pünktlich und entspannt zum Flughafen.",
-    "image": "./r3.png"
+    "image": "/r3.png"
   },
   {
     "name": "Krankenfahrten",
     "detail": "Wir bringen Sie sicher und pünktlich zu Ihrer Behandlung und zurück Ob Transport zur Dialyse, Therapie, Krankengymnastik oder zum Arzt, wir begleiten Sie von Ihrer Haustüre bis zur Klinik oder Praxis und zurück.",
-    "image": "./r4.png.jpg"
+    "image": "/r4.png"
   },
   {
     "name": "Kinderfahrten",
     "detail": "Die Sicherheit der Kinder steht bei jeder Fahrt an erster Stelle. Wir sorgen dafür, dass Ihre Kinder sicher und pünktlich an ihrem Ziel ankommen.",
-    "image": "./r5.png"
+    "image": "/r5.png"
   }
 ]
